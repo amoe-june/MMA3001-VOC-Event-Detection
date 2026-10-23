@@ -1,0 +1,11 @@
+============================= test session starts =============================
+platform win32 -- Python 3.10.11, pytest-9.1.1, pluggy-1.7.0 -- C:\Users\ayeju\AppData\Local\Programs\Python\Python310\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\ayeju\MMA3001-VOC-Event-Detection
+collecting ... collected 3 items
+
+tests/test_voc_analysis.py::test_extract_measurements_with_values PASSED [ 33%]
+tests/test_voc_analysis.py::test_extract_measurements_with_missing_value PASSED [ 66%]
+tests/test_voc_analysis.py::test_model_results PASSED                    [100%]
+
+============================== 3 passed in 1.30s ==============================
